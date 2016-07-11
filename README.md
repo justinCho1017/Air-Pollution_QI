@@ -1,2 +1,4 @@
 # Air-Pollution_QI
-Air pollution IoT Platform
+
+
+This repository contains the design architecture, source codes, and data sets for Air pollution IoT Platform.
